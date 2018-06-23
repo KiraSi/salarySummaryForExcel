@@ -1,0 +1,9 @@
+c:\users\terrys\documents\visual studio 2017\Projects\salarySummaryForExcel\salarySummaryForExcel\bin\Debug\salarySummaryForExcel.exe.config
+c:\users\terrys\documents\visual studio 2017\Projects\salarySummaryForExcel\salarySummaryForExcel\bin\Debug\salarySummaryForExcel.exe
+c:\users\terrys\documents\visual studio 2017\Projects\salarySummaryForExcel\salarySummaryForExcel\bin\Debug\salarySummaryForExcel.pdb
+c:\users\terrys\documents\visual studio 2017\Projects\salarySummaryForExcel\salarySummaryForExcel\obj\Debug\salarySummaryForExcel.csprojResolveAssemblyReference.cache
+c:\users\terrys\documents\visual studio 2017\Projects\salarySummaryForExcel\salarySummaryForExcel\obj\Debug\salarySummaryForExcel.Form1.resources
+c:\users\terrys\documents\visual studio 2017\Projects\salarySummaryForExcel\salarySummaryForExcel\obj\Debug\salarySummaryForExcel.Properties.Resources.resources
+c:\users\terrys\documents\visual studio 2017\Projects\salarySummaryForExcel\salarySummaryForExcel\obj\Debug\salarySummaryForExcel.csproj.GenerateResource.Cache
+c:\users\terrys\documents\visual studio 2017\Projects\salarySummaryForExcel\salarySummaryForExcel\obj\Debug\salarySummaryForExcel.exe
+c:\users\terrys\documents\visual studio 2017\Projects\salarySummaryForExcel\salarySummaryForExcel\obj\Debug\salarySummaryForExcel.pdb
